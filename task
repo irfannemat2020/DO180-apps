@@ -1,0 +1,4 @@
+ echo "OCP4.6" > TEST
+ git add .
+ git commit -am "OCP4.6"
+ git push
